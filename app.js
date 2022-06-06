@@ -8,9 +8,9 @@ const app = express()
 const port = 3000
 
 cloudinary.config({
-    cloud_name:'solutech11',
-    api_key: '195948511332187',
-    api_secret:'d7lpvzOQEgaO5t9S1ld22Vh0srE'
+    cloud_name:'******',
+    api_key: '******',
+    api_secret:'******'
 })
 
 //fileupload setup to save in temp
